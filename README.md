@@ -1,0 +1,2 @@
+# Documenting-data-on-sources-of-environmental-pollution-in-Mwanza-city-Tanzania
+This project is a map project that will be conducted in Mwanza city of Tanzania to clarify the status of environmental pollution. The project intends to put into the map all places which are the sources of environmental pollution in Mwanza city by using GIS tools. The project will merge some GIS tools which will be monitored by QGIS tool. 
